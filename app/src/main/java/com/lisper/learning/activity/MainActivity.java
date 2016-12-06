@@ -1,7 +1,9 @@
-package com.lisper.learning;
+package com.lisper.learning.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.lisper.learning.R;
 
 public class MainActivity extends AppCompatActivity {
 
